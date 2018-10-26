@@ -8,7 +8,6 @@
 前端技术栈：
 * vue.js2.0
 * vue-router
-* vuex(暂时没用上，二期会用vuex重构)
 * scss
 * h5,css3
 * ES6 
@@ -23,10 +22,10 @@
 下面是图片预览
 
 <p align="center">  
-    <img src="https://github.com/18392192892/3MIG/blob/master/demoImg/1.png" width="300" style="margin: 20px;">
-    <img src="https://github.com/18392192892/3MIG/blob/master/demoImg/2.png" width="300" style="margin: 20px;">
-    <img src="https://github.com/18392192892/3MIG/blob/master/demoImg/3.png" width="300" style="margin: 20px;">
-    <img src="https://github.com/18392192892/3MIG/blob/master/demoImg/4.png" width="300" style="margin: 20px;">
+    <img src="https://github.com/ywenhao/MI/blob/master/demoImg/1.png" width="300" style="margin: 20px;">
+    <img src="https://github.com/ywenhao/MI/blob/master/demoImg/2.png" width="300" style="margin: 20px;">
+    <img src="https://github.com/ywenhao/MI/blob/master/demoImg/3.png" width="300" style="margin: 20px;">
+    <img src="https://github.com/ywenhao/MI/blob/master/demoImg/4.png" width="300" style="margin: 20px;">
 </p>
 
 #### 项目安装及运行
